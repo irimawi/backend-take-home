@@ -31,8 +31,7 @@ API should be able to allow calls with the following
 1. Create a new deliverable, defining deadlines for TASKA and TASKB
 2. Mark a task as compelted (tracking the time)
 3. Provide Deliverable summary of when each task in the deliverable was completed and whether the deliverable was finished on time or not
-4. UNSTOCK
-5. LIST Deliverables with true when finished on time and false when did not
+4. LIST Deliverables with true when finished on time and false when did not
 
 ## Details
 - The application is only an API and should not have any front end parts
